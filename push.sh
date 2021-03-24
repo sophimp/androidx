@@ -1,3 +1,3 @@
 git remote add github git@github.com:sophimp/androidx.git
-git push origin master
-git push github master
+git push origin study
+git push github study
